@@ -1,4 +1,4 @@
-# ToDoBliss Website using React
+# ToDo Website using React
 
 This project is a ToDo website created using React.js and styled with Tailwind CSS. It leverages React's Context Hook for state management and utilizes local storage to persist ToDo items. The website provides the following functionality:
 
